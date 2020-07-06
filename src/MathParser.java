@@ -3,6 +3,7 @@ import java.util.HashMap;
 import java.lang.reflect.*;
 
 public class MathParser {
+	
 	//Lista de funciones
 	Object Functions;
 	
